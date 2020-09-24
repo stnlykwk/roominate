@@ -7,7 +7,7 @@
 | Robin Truong    | RLT5@SFU.CA     |
 | Travis Booth    | TMBOOTH@SFU.CA  |
 | James McTaggart | JMCTAGGA@SFU.CA |
-| Stanley Kwok    | YHK4@SFU.CA     |
+| **Stanley Kwok**    | **YHK4@SFU.CA**     |
 | Cyndy Nguyen    | CYNDYN@SFU.CA   |
 | Scott Hetland   | SHETLAND@SFU.CA |
 ---
