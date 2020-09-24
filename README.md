@@ -2,14 +2,14 @@
 
 ## Team Members
 
-| Name            | Student # | Email           |
-|-----------------|:---------:|----------------:|
-| Robin Truong    | 301053650 | RLT5@SFU.CA     |
-| Travis Booth    | 301142540 | TMBOOTH@SFU.CA  |
-| James McTaggart | 301079987 | JMCTAGGA@SFU.CA |
-| Stanley Kwok    | 301075732 | YHK4@SFU.CA     |
-| Cyndy Nguyen    | 301377193 | CYNDYN@SFU.CA   |
-| Scott Hetland   | 301381879 | SHETLAND@SFU.CA |
+| Name            | Email           |
+|-----------------|----------------:|
+| Robin Truong    | RLT5@SFU.CA     |
+| Travis Booth    | TMBOOTH@SFU.CA  |
+| James McTaggart | JMCTAGGA@SFU.CA |
+| Stanley Kwok    | YHK4@SFU.CA     |
+| Cyndy Nguyen    | CYNDYN@SFU.CA   |
+| Scott Hetland   | SHETLAND@SFU.CA |
 ---
 
 ## Table of contents
